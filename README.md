@@ -1,2 +1,2 @@
-# Computational-Astrophysics-Research-Preparation
-This repository includes all of the lessons from the Computational Astrophysics Research Preparation (CARP) workshops.
+# Computational Astrophysics Research Preparation (CARP)
+This repository includes all of the lessons from previous Computational Astrophysics Research Preparation (CARP) workshops.
