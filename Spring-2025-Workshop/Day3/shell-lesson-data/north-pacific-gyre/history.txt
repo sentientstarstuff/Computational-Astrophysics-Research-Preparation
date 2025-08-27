@@ -1,0 +1,5 @@
+  610  cd north-pacific-gyre/
+  611  ls
+  612  clear
+  613  history | tail -n 5
+  614  history | tail -n 5 > history.txt
